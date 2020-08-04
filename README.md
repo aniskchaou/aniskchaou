@@ -26,28 +26,29 @@
 
 ### 📕 Top Projects :
 
-- **Cinema  (Spring boot/Angular)**
+- **Cinema  (Spring boot/Angular)**<br>
 demo : https://cinemas-anis-kchaou-fullstack.herokuapp.com/
 Source code : [https://github.com/aniskchaou/GCINEMAS_ANGULAR](https://github.com/aniskchaou/GCINEMAS_ANGULAR)
 
-- **e-shop (Spring boot / Angular)**
+- **e-shop (Spring boot / Angular)**<br>
  demo : https://e-commerce-angular-frontend.herokuapp.com/
  Source code : [https://github.com/aniskchaou/ECOMMERCE-FRONTEND-ANGULAR](https://github.com/aniskchaou/ECOMMERCE-FRONTEND-ANGULAR)
 
- - **RentalCar (Spring boot / Thymeleaf)** 
+ - **RentalCar (Spring boot / Thymeleaf)** <br>
 demo : https://vehicules-springboot.herokuapp.com/  
 Source code : [https://github.com/aniskchaou/CARFLEET-SPRING](https://github.com/aniskchaou/CARFLEET-SPRING)
 
-- **ShopCart (Java/J2EE)**  
+- **ShopCart (Java/J2EE)**  <br>
 demo : https://ecommerce-hibernate-j2ee.herokuapp.com/index.jsp  
 Source code : [https://github.com/aniskchaou/ECOMMERCE-J2EE](https://github.com/aniskchaou/ECOMMERCE-J2EE)
 
-- **ToDoList  (Spring boot/ reactjs)**
+- **ToDoList  (Spring boot/ reactjs)**<br>
 demo : https://project-tasks-reactjs.herokuapp.com/  
 Source code : [https://github.com/aniskchaou/PROJECT-TASKS-REACTJS](https://github.com/aniskchaou/PROJECT-TASKS-REACTJS)
 
-- **OShop  (Angular / firebase)**
+- **OShop  (Angular / firebase)**<br>
 demo : https://bioshop-anis-kchaou.herokuapp.com/  
 Source code : [https://github.com/aniskchaou/ORGANIC_SHOP_ANGULAR_7](https://github.com/aniskchaou/ORGANIC_SHOP_ANGULAR_7)
+
 
 
