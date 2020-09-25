@@ -51,25 +51,25 @@ demo : https://bioshop-anis-kchaou.herokuapp.com/
 Source code : [https://github.com/aniskchaou/ORGANIC_SHOP_ANGULAR_7](https://github.com/aniskchaou/ORGANIC_SHOP_ANGULAR_7)
 
 - **JobFinder (PHP 7, Bootstrap )** <br>
-demo : https://jobfinder-php7.herokuapp.com
-Source code : https://github.com/aniskchaou/JOBFINDER-PHP
+demo : https://jobfinder-php7.herokuapp.com<br>
+Source code : https://github.com/aniskchaou/JOBFINDER-PHP<br>
 
 - **EasyRestaurant (PHP 7, Laravel 5, Materialize)** <br>
-demo : https://restaurant-management-laravel.herokuapp.com
-Source code : https://github.com/aniskchaou/RESTAURANT-LARAVEL-5
+demo : https://restaurant-management-laravel.herokuapp.com<br>
+Source code : https://github.com/aniskchaou/RESTAURANT-LARAVEL-5<br>
 
 - **Skyline Housing (Symfony 5, Materialize)** <br>
-demo : http://housing-symfony5.herokuapp.com/
-Source code : https://github.com/aniskchaou/REALESTATE-SYMFONY-5
+demo : http://housing-symfony5.herokuapp.com/<br>
+Source code : https://github.com/aniskchaou/REALESTATE-SYMFONY-5<br>
 
 - **MyBlog (Vue.js 2, Vuetify, Node.js)** <br>
-Démo : https://blog-vuejs-frontend.herokuapp.com/
-Source code : https://github.com/aniskchaou/blog-frontend-vuejs
+Démo : https://blog-vuejs-frontend.herokuapp.com/<br>
+Source code : https://github.com/aniskchaou/blog-frontend-vuejs<br>
 
 - **Employee Management (Node.js, Express)** <br>
-demo : https://simple-employee-man.herokuapp.com/list
-Source code :https://github.com/aniskchaou/EMPLOYEE-MANAGEMENT-NODEJS
+demo : https://simple-employee-man.herokuapp.com/list<br>
+Source code :https://github.com/aniskchaou/EMPLOYEE-MANAGEMENT-NODEJS<br>
 
 - **Stage+ (Laravel 5)**
-demo : https://pfe2015-stages-laravel.herokuapp.com/
-Source code : https://github.com/aniskchaou/PFE2015-STAGE--LARAVEL5
+demo : https://pfe2015-stages-laravel.herokuapp.com/<br>
+Source code : https://github.com/aniskchaou/PFE2015-STAGE--LARAVEL5<br>
