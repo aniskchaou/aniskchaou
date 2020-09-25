@@ -50,5 +50,18 @@ Source code : [https://github.com/aniskchaou/PROJECT-TASKS-REACTJS](https://gith
 demo : https://bioshop-anis-kchaou.herokuapp.com/  
 Source code : [https://github.com/aniskchaou/ORGANIC_SHOP_ANGULAR_7](https://github.com/aniskchaou/ORGANIC_SHOP_ANGULAR_7)
 
+- **JobFinder (PHP 7, Bootstrap )
+demo : https://jobfinder-php7.herokuapp.com
+Source code : 
 
+- **EasyRestaurant (PHP 7, Laravel 5, Materialize)
+demo : https://restaurant-management-laravel.herokuapp.com
 
+- **Skyline Housing (Symfony 5, Materialize)
+demo : http://housing-symfony5.herokuapp.com/
+
+- **MyBlog (Vue.js 2, Vuetify, Node.js)
+Démo : https://blog-vuejs-frontend.herokuapp.com/
+
+- **Employee Management (Node.js, Express)
+demo : https://simple-employee-man.herokuapp.com/list
