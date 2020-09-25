@@ -50,18 +50,26 @@ Source code : [https://github.com/aniskchaou/PROJECT-TASKS-REACTJS](https://gith
 demo : https://bioshop-anis-kchaou.herokuapp.com/  
 Source code : [https://github.com/aniskchaou/ORGANIC_SHOP_ANGULAR_7](https://github.com/aniskchaou/ORGANIC_SHOP_ANGULAR_7)
 
-- **JobFinder (PHP 7, Bootstrap )
+- **JobFinder (PHP 7, Bootstrap )** <br>
 demo : https://jobfinder-php7.herokuapp.com
-Source code : 
+Source code : https://github.com/aniskchaou/JOBFINDER-PHP
 
-- **EasyRestaurant (PHP 7, Laravel 5, Materialize)
+- **EasyRestaurant (PHP 7, Laravel 5, Materialize)** <br>
 demo : https://restaurant-management-laravel.herokuapp.com
+Source code : https://github.com/aniskchaou/RESTAURANT-LARAVEL-5
 
-- **Skyline Housing (Symfony 5, Materialize)
+- **Skyline Housing (Symfony 5, Materialize)** <br>
 demo : http://housing-symfony5.herokuapp.com/
+Source code : https://github.com/aniskchaou/REALESTATE-SYMFONY-5
 
-- **MyBlog (Vue.js 2, Vuetify, Node.js)
+- **MyBlog (Vue.js 2, Vuetify, Node.js)** <br>
 Démo : https://blog-vuejs-frontend.herokuapp.com/
+Source code : https://github.com/aniskchaou/blog-frontend-vuejs
 
-- **Employee Management (Node.js, Express)
+- **Employee Management (Node.js, Express)** <br>
 demo : https://simple-employee-man.herokuapp.com/list
+Source code :https://github.com/aniskchaou/EMPLOYEE-MANAGEMENT-NODEJS
+
+- **Stage+ (Laravel 5)**
+demo : https://pfe2015-stages-laravel.herokuapp.com/
+Source code : https://github.com/aniskchaou/PFE2015-STAGE--LARAVEL5
