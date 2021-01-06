@@ -6,22 +6,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/anis-kchaou-11579b172)[<img align="left" alt="kchaouanis26@gmail.com" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:kchaouanis26@gmail.com)
+[<img align="left" alt="kchaouanis26@gmail.com" width="120" height="60" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:kchaouanis26@gmail.com)
 <br>
 
 ### Languages and Tools:
-<img width="120" height="60" alt="screen shot 2017-08-07 at 12 18 15 pm" src="java.png"> 
-<img align="left" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img align="left" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /><img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
+<img width="120" height="60" alt="screen shot 2017-08-07 at 12 18 15 pm" src="angular.png"> <img width="120" height="60" alt="screen shot 2017-08-07 at 12 18 15 pm" src="bootstrap.png"> <img width="120" height="60" alt="screen shot 2017-08-07 at 12 18 15 pm" src="j2ee.png"> <img width="120" height="60" alt="screen shot 2017-08-07 at 12 18 15 pm" src="java.png"> <img width="120" height="60" alt="screen shot 2017-08-07 at 12 18 15 pm" src="jquery.png"> <img width="120" height="60" alt="screen shot 2017-08-07 at 12 18 15 pm" src="js.png"> <img width="120" height="60" alt="screen shot 2017-08-07 at 12 18 15 pm" src="laravel.png"> <img width="120" height="60" alt="screen shot 2017-08-07 at 12 18 15 pm" src="mysql.png"> <img width="120" height="60" alt="screen shot 2017-08-07 at 12 18 15 pm" src="node.png"> <img width="120" height="60" alt="screen shot 2017-08-07 at 12 18 15 pm" src="php.png"> <img width="120" height="60" alt="screen shot 2017-08-07 at 12 18 15 pm" src="postgresql.png"> <img width="120" height="60" alt="screen shot 2017-08-07 at 12 18 15 pm" src="python.png"> <img width="120" height="60" alt="screen shot 2017-08-07 at 12 18 15 pm" src="react.png"> <img width="120" height="60" alt="screen shot 2017-08-07 at 12 18 15 pm" src="springboot.png"> <img width="120" height="60" alt="screen shot 2017-08-07 at 12 18 15 pm" src="swift.png"> <img width="120" height="60" alt="screen shot 2017-08-07 at 12 18 15 pm" src="symfony.png"> <img width="120" height="60" alt="screen shot 2017-08-07 at 12 18 15 pm" src="vue.png"> 
 <br>
 
 
