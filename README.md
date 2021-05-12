@@ -1,10 +1,10 @@
-![](https://komarev.com/ghpvc/?username=aniskchaou)
+
 ### Hi there, I'm Anis 👋
 
  - I am a full stack developer and have some experience with website creation and web applications.
  - I specialize in web development with Java and Angular.
  - I am interested in new technologies.
-
+![](https://komarev.com/ghpvc/?username=aniskchaou)
 ### Connect with me:
 
 [<img align="left" alt="kchaouanis26@gmail.com" width="60" height="60" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:kchaouanis26@gmail.com)
