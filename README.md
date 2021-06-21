@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="kchaouanis26@gmail.com" width="60" height="60" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:kchaouanis26@gmail.com)
-[<img align="left" alt="youtube" width="60" height="60" src="https://pngimg.com/uploads/youtube/youtube_PNG2.png"/>](https://www.youtube.com/channel/UCGsw9YPdknaVPi0wWfxCUGg)
+[<img align="left" alt="youtube" width="70" height="40" src="https://pngimg.com/uploads/youtube/youtube_PNG2.png"/>](https://www.youtube.com/channel/UCGsw9YPdknaVPi0wWfxCUGg)
 <br>
 
 <br>
