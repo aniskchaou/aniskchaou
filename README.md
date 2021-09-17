@@ -13,7 +13,9 @@
 [<img align="left" alt="kchaouanis26@gmail.com" width="60" height="60" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:kchaouanis26@gmail.com)
 [<img align="left" alt="youtube" width="75" height="50" src="https://pngimg.com/uploads/youtube/youtube_PNG2.png"/>](https://www.youtube.com/channel/UCGsw9YPdknaVPi0wWfxCUGg)
 [<img align="left" alt="docker" width="75" height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"/>](https://hub.docker.com/u/3516534654634684364654654)
-[<img align="left" alt="docker" width="75" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/>](https://stackoverflow.com/users/12553922/anis-kchaou)
+[<img align="left" alt="stackoverflow" width="75" height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/>](https://stackoverflow.com/users/12553922/anis-kchaou)
+[<img align="left" alt="linkedin" width="75" height="70" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/anis-k-11579b172/)
+
 
 <br>
 
